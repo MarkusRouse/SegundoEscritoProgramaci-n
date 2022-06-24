@@ -1,0 +1,10 @@
+C:\Users\alumno\source\repos\EscritoProgramacion\SegundoEscritoProgramacion\SegundoEscritoProgramacion\bin\Debug\SegundoEscritoProgramacion.exe.config
+C:\Users\alumno\source\repos\EscritoProgramacion\SegundoEscritoProgramacion\SegundoEscritoProgramacion\bin\Debug\SegundoEscritoProgramacion.exe
+C:\Users\alumno\source\repos\EscritoProgramacion\SegundoEscritoProgramacion\SegundoEscritoProgramacion\bin\Debug\SegundoEscritoProgramacion.pdb
+C:\Users\alumno\source\repos\EscritoProgramacion\SegundoEscritoProgramacion\SegundoEscritoProgramacion\obj\Debug\SegundoEscritoProgramacion.csprojAssemblyReference.cache
+C:\Users\alumno\source\repos\EscritoProgramacion\SegundoEscritoProgramacion\SegundoEscritoProgramacion\obj\Debug\SegundoEscritoProgramacion.Form1.resources
+C:\Users\alumno\source\repos\EscritoProgramacion\SegundoEscritoProgramacion\SegundoEscritoProgramacion\obj\Debug\SegundoEscritoProgramacion.Properties.Resources.resources
+C:\Users\alumno\source\repos\EscritoProgramacion\SegundoEscritoProgramacion\SegundoEscritoProgramacion\obj\Debug\SegundoEscritoProgramacion.csproj.GenerateResource.cache
+C:\Users\alumno\source\repos\EscritoProgramacion\SegundoEscritoProgramacion\SegundoEscritoProgramacion\obj\Debug\SegundoEscritoProgramacion.csproj.CoreCompileInputs.cache
+C:\Users\alumno\source\repos\EscritoProgramacion\SegundoEscritoProgramacion\SegundoEscritoProgramacion\obj\Debug\SegundoEscritoProgramacion.exe
+C:\Users\alumno\source\repos\EscritoProgramacion\SegundoEscritoProgramacion\SegundoEscritoProgramacion\obj\Debug\SegundoEscritoProgramacion.pdb
